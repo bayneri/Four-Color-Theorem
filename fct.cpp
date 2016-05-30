@@ -1,11 +1,6 @@
 /*
-Student Name: Halil Cetiner
-Student Number: 2013400195
-Project Numbner: 3
-Operating System: Virtual Machine
-Compile Status: Compiling
-Program Status: Working
-Notes: Anything you want to say about your code that will be helpful in the grading process.
+    Halil Çetiner
+    Data Structures and Algorithms Assignment
 */
 
 #include <iostream>
